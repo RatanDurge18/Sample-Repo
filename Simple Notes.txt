@@ -1,0 +1,22 @@
+
+Text Mining Process - 5 steps
+1. Text Preprocessing
+	i.Data Cleanup
+	ii.Tokenization
+	iii.POS tagging
+	iv.Word sense disambiguation
+	v.parsing
+2. Features Ganeration
+	i.Bag of Words
+	ii.stemming
+	iii.Remove stop words
+	iv.Vector Space Model
+3. Features Selection
+	i.Reduce Dimensionality
+	ii.N-grams
+4. Data Mining
+	i.Clustering(unsuperwised)
+	ii.Classification(superwised)
+5. Analyzing Results
+	i.Visulization
+	ii.Interpretation
